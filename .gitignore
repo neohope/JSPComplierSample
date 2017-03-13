@@ -1,0 +1,8 @@
+# ignore mac build files
+.metadata/
+.recommenders/
+.settings/
+RemoteSystemsTempFiles/
+bin/
+jspclasses/
+
